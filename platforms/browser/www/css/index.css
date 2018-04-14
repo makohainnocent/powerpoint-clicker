@@ -1,0 +1,30 @@
+button{margin-top:20px;border-style:solid;border-color:purple;background-color:purple;border-radius:50px;color:#ffffff;height:100px;width:100px;
+	  }
+body{margin:4%;max-width:85%;background-image:url(../img/cat.jpg);background-repeat:no-repeat;
+	}
+body{background:url(../img/bg.jpg);
+	}
+button:hover{background-color:green;border-color:green;
+	}
+em{color:#ffffff;
+	}
+p{float:none;
+	}
+.navbar-default {display: none !important;
+	}
+#app{display:none;}
+.login-button{margin-top:20px;border-style:solid;border-color:green;background-color:green;border-radius:5px;color:#ffffff;height:30px;width:100px;padding:2px;
+	}
+input[type="text"]{background-color:purple;border-color:purple;color:#ffffff;height:30px;width:300px;border-radius:5px;
+	}
+li{color:#ffffff;font-size:20px;
+	}
+ol{list-style-image:url(../img/li_st1.png);
+	}
+.login-button:hover{background-color:#000000;border-color:#000000;
+	}
+li:hover{text-decoration:underline;}
+#loader{display:none;
+	}
+#status{display:none;
+		}
